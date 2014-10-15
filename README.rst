@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 About this fork
 ---------------
 This is a test project fork of django-keyedcache to Python 3 and Django 1.6
@@ -9,8 +8,6 @@ The current project, "keyed", is being used to test
 - Continue original README.md -
 
 
-=======
->>>>>>> 2c56e66ee998acac4dd9fe905d7ae4b07807369e
 About
 -----
 
