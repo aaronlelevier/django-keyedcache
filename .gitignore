@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.pyc
 *.swp
 *.pyo
@@ -8,6 +9,9 @@
 .coverage
 /static
 /media
+=======
+syntax: glob
+>>>>>>> 2c56e66ee998acac4dd9fe905d7ae4b07807369e
 build
 .build
 *.orig
@@ -15,6 +19,10 @@ build
 *~
 *.o
 *.pyo
+<<<<<<< HEAD
+=======
+*.pyc
+>>>>>>> 2c56e66ee998acac4dd9fe905d7ae4b07807369e
 _private
 *_local.py
 _LOCAL_FLAG
@@ -29,4 +37,8 @@ local_bursar_*py
 .DS_Store
 .tox
 .coverage
+<<<<<<< HEAD
 htmlcov
+=======
+htmlcov
+>>>>>>> 2c56e66ee998acac4dd9fe905d7ae4b07807369e
